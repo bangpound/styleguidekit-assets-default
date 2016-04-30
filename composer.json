@@ -27,6 +27,11 @@
 		"pattern-lab/core": "0.*"
 	},
 	"extra": {
+		"extra": {
+			"branch-alias": {
+				"dev-master": "0.6.x-dev"
+			}
+		},
 		"patternlab": {
 			"dist": {
 				"publicDir": [
